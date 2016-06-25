@@ -2,5 +2,5 @@
 see this project [here](http://leoneckert.com/mice/)
 
 
-![image](http://)
+![image](https://github.com/leoneckert/lost-in-mice/blob/master/screenshot.png)
 
